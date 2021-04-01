@@ -71,7 +71,7 @@ export const Text = styled.Text`
 
 export const TextInfo = styled.Text`
    color: #fff;
-   font-family: 'Raleway_400Regular', 
+  // font-family: 'Raleway_400Regular', 
 `;
 
 export const Footer = styled.View`
